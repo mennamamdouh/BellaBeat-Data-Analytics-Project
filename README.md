@@ -1,6 +1,6 @@
 # BellaBeat-Data-Analytics-Project
 This project is about data analytics for health-and-fitness company BellaBeat.
-The repository contains xlsx and ppt files, the first xlsx files is the raw data, the second is the filtered, sorted and final useful data, and the third one contains the extracted visualization. The ppt file is the final result for the analytics and contains the useful insights for the stakeholders.
+The repository contains pdf and xlsx files, the first xlsx files is the raw data, the second is the filtered, sorted and final useful data, and the third one contains the extracted visualization. The pdf file is the final result for the analytics and contains the useful insights for the stakeholders.
 
 The analytics process went as the following:
   1. Asking phase:
