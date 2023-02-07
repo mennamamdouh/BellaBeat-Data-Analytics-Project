@@ -9,10 +9,10 @@ This question's answer leads the company to improve their marketing strategy and
 
 #### The repository contains pdf and xlsx files: ####
 
-  + The first xlsx file is the raw data
-  + The second is the filtered, sorted and last extracted useful data
-  + The third one contains the extracted visualization
-  + The pdf file is the final result for the analytics and contains the useful insights for the stakeholders.
+  + [The first xlsx file is the raw data](https://github.com/mennamamdouh/BellaBeat-Data-Analytics-Project/blob/main/FitBit_Raw_Data.xlsx?raw=true)
+  + [The second is the filtered, sorted and last extracted useful data](https://github.com/mennamamdouh/BellaBeat-Data-Analytics-Project/blob/main/FitBit_Final_Data.xlsx?raw=true)
+  + [The third one contains the extracted visualization](https://github.com/mennamamdouh/BellaBeat-Data-Analytics-Project/blob/main/Dashboard.xlsx?raw=true)
+  + [The pdf file is the final result for the analytics and contains the useful insights for the stakeholders](https://github.com/mennamamdouh/BellaBeat-Data-Analytics-Project/blob/main/Bellabeat%20Case%20Study.pdf)
 
 - - - -
 
